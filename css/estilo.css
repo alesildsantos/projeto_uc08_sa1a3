@@ -1,0 +1,12 @@
+body{
+    height: 996px;
+    width: 616px;
+    color: blue;
+}
+img.displayed{
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;    
+    height: 996px;
+    width: auto; 
+   }
